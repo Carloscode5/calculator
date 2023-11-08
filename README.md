@@ -1,5 +1,5 @@
 # Pocket Command-Line Calculator (C) 
-#### Video Demo: [C Programming Project: Command-line Calculator Demo Test](https://youtu.be/3kJ7MY5I1-I)
+#### Video Demo: [CS50 Final Project: Pocket Calculator](https://youtu.be/pCU8ZzSjatI)
 
 This is a pocket command-line calculator written in the C programming language. It allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division) and calculates the result.
 
